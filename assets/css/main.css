@@ -32353,11 +32353,11 @@ only screen and (min-width: 576px) and (max-width: 767px),
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: -webkit-linear-gradient(47.17deg, #EC1B98 36.14%, #2FA7FF 75.88%);
-  background-image: -moz-linear-gradient(47.17deg, #EC1B98 36.14%, #2FA7FF 75.88%);
-  background-image: -ms-linear-gradient(47.17deg, #EC1B98 36.14%, #2FA7FF 75.88%);
-  background-image: -o-linear-gradient(47.17deg, #EC1B98 36.14%, #2FA7FF 75.88%);
-  background-image: linear-gradient(47.17deg, #EC1B98 36.14%, #2FA7FF 75.88%);
+  background-image: -webkit-linear-gradient(47.17deg, #eb1971 36.14%, #2ebbc4 75.88%);
+  background-image: -moz-linear-gradient(47.17deg, #eb1971 36.14%, #2ebbc4 75.88%);
+  background-image: -ms-linear-gradient(47.17deg, #eb1971 36.14%, #2ebbc4 75.88%);
+  background-image: -o-linear-gradient(47.17deg, #eb1971 36.14%, #2ebbc4 75.88%);
+  background-image: linear-gradient(47.17deg, #eb1971 36.14%, #2ebbc4 75.88%);
   opacity: 0;
 }
 
