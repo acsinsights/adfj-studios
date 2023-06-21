@@ -22545,6 +22545,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 }
 
 .about_title1 {
+  font-size: 2.5rem;
   color: #fff;
 }
 
@@ -39641,8 +39642,8 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .brand__item-5 {
-  width: 260px !important;
-  height: 160px;
+  width: 250px !important;
+  height: 150px;
   border: 1px solid rgba(4, 18, 31, 0.1019607843);
   text-align: center;
   line-height: 160px;
@@ -39650,7 +39651,8 @@ only screen and (min-width: 576px) and (max-width: 767px),
   display: flex !important;
   align-items: center;
   justify-content: center;
-}
+  background-position: center;
+} 
 
 .brand__item-5:hover {
   background: #F8F8F8;
