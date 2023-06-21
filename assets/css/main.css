@@ -12817,6 +12817,11 @@ only screen and (min-width: 576px) and (max-width: 767px) {
   background-color: #1b1a1a;
 }
 
+.book-btn2:hover {
+  background-color: #c0c0c0;
+  color: #000;
+}
+
 [dir=rtl] .header__hamburger {
   margin-left: 0;
   margin-right: 50px;
