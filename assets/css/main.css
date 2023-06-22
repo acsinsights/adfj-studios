@@ -46333,7 +46333,8 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 .features__icon {
   height: 120px;
   width: 120px;
-  overflow: hidden
+  overflow: hidden;
+  margin-top: -30px;
 }
 
 .features__icon video{
@@ -46483,7 +46484,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 }
 
 .features__icon {
-  margin-bottom: 33px;
+  margin-bottom: 10px;
 }
 
 .features__icon span {
