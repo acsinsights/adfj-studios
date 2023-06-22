@@ -46333,6 +46333,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 .features__icon {
   height: 120px;
   width: 120px;
+  overflow: hidden
 }
 
 .features__icon video{
