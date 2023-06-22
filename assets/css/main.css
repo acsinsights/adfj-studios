@@ -46342,6 +46342,9 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 .contact__form-9{
   position: relative;
 }
+.contact__form-9-inner{
+  min-height: 200px;
+}
 .cover-hubspot{
   position: absolute;
   bottom: 0;
