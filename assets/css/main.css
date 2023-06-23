@@ -1687,6 +1687,14 @@ only screen and (min-width: 576px) and (max-width: 767px),
   margin-top: -30px;
 }
 
+.mt--50{
+  margin-top: -50px;
+}
+
+.mt--100{
+  margin-top: -100px;
+}
+
 .pt-13 {
   padding-top: 13px;
 }
