@@ -31428,7 +31428,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .faq__style-2 {
-  padding-right: 415px;
+  /* padding-right: 415px; */
   padding-top: 95px;
   padding-bottom: 100px;
   border-left: 2px solid var(--tp-common-black);
@@ -63746,6 +63746,11 @@ only screen and (min-width: 576px) and (max-width: 767px),
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .zoom-instagram-widget__item {
     width: 30%;
+  }
+}
+@media only screen and (min-width: 200px) and (max-width: 800px) {
+  .skill__area{
+    display: none;
   }
 }
 
