@@ -18971,7 +18971,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .slider__content-9 {
-  margin-bottom: 110px;
+  margin-bottom: 200px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -24608,8 +24608,8 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 
 .about__shape-6 {
   position: absolute;
-  top: 52%;
-  right: 14%;
+  top: 95%;
+  right: 25%;
   z-index: -1;
   -moz-animation: tprotate 5s ease-in-out 1s forwards infinite alternate;
   -webkit-animation: tprotate 5s ease-in-out 1s forwards infinite alternate;
@@ -63772,6 +63772,31 @@ only screen and (min-width: 576px) and (max-width: 767px),
 .pb-150 {
   /* padding-bottom: 150px; */
   padding: 1px 29px;
+}
+.contact__form-9 {
+  position: relative;
+  padding: 30px;
+}
+.r-padding {
+  position: relative;
+  padding: 1px;
+}
+.mb-85 {
+  margin-bottom: 76px;
+}
+.hub-cover{
+  bottom: 3px;
+}
+.cover-hubspot {
+  position: absolute;
+  bottom: 50px;
+  width: 100%;
+  height: 80px;
+  background-color: white;
+}
+.section__title-9 {
+  font-size: 35px;
+  margin-left: 20px;
 }
 
 }
