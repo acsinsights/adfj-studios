@@ -31503,7 +31503,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
   .faq__style-2 {
     padding-right: 50px;
     padding-left: 50px;
-    margin-top: 50px;
+    margin-top: 500px;
   }
 
   [dir=rtl] .faq__style-2 {
@@ -31516,7 +31516,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
   .faq__style-2 {
     padding-right: 30px;
     padding-left: 30px;
-    margin-top: 50px;
+    margin-top: 500px;
   }
 
   [dir=rtl] .faq__style-2 {
@@ -31529,7 +31529,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
   .faq__style-2 {
     padding-right: 20px;
     padding-left: 20px;
-    margin-top: 50px;
+    margin-top: 500px;
   }
 
   [dir=rtl] .faq__style-2 {
