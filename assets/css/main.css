@@ -63749,9 +63749,9 @@ only screen and (min-width: 576px) and (max-width: 767px),
   }
 }
 @media only screen and (min-width: 200px) and (max-width: 800px) {
-  .skill__area{
-    display: none;
-  }
+  /* .skill__area{
+    // display: none;
+  } */
   .slider__title-9 {
     font-size: 35px;
     margin-top: 70px;
