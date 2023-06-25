@@ -63784,7 +63784,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 .contact__form-9 {
   position: relative;
-  padding: 30px;
+  padding: 11px;
 }
 .r-padding {
   position: relative;
@@ -63805,7 +63805,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 .cover-hubspot {
   position: absolute;
-  bottom: 50px;
+  bottom: 18px;
   width: 100%;
   height: 80px;
   background-color: white;
