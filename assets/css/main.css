@@ -39838,6 +39838,10 @@ only screen and (min-width: 576px) and (max-width: 767px),
   margin-top: -450px;
 }
 
+.skill__item-wrapper-9 .skill2 {
+  margin-left: -90px;
+}
+
 @media (max-width: 575px) {
   .skill__item {
     flex-wrap: wrap;
