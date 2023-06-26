@@ -63815,7 +63815,17 @@ only screen and (min-width: 576px) and (max-width: 767px),
   font-size: 35px;
   margin-left: 20px;
 }
+}
 
+@media only screen and (min-width: 1000px) and (max-width: 4500px) {
+  .menu-btn{
+    display: none;
+    }
+}
+@media only screen and (min-width: 200px) and (max-width: 978px) {
+  .getstarted-btn{
+    display: none;
+    }
 }
 
 /*# sourceMappingURL=main.css.map */
